@@ -17,7 +17,7 @@ activo=true
 "Si ponemos el | y los tipos diferentes de variables nos dejara ingresarle varios tipos de datos"
 let matricula:number|string|boolean
 
-matricula=21000547
+matricula=19001885
 matricula='A56FD77'
 
 console.log('El numero es: ',sum);
