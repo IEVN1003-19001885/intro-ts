@@ -25,7 +25,7 @@ class FormulaGeneral {
         } else {
             const x1 = (-this.b + Math.sqrt(d)) / (2 * this.a);
             const x2 = (-this.b - Math.sqrt(d)) / (2 * this.a);
-            return `Raíces reales: x1 = ${x1}, x2 = ${x2}`;
+            return `Raíces: x1 = ${x1}, x2 = ${x2}`;
         }
     }
 }
